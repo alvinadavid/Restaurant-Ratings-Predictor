@@ -5,9 +5,7 @@ A machine learning project that predicts a restaurant’s review rating category
 The model is trained using past restaurant data, which includes features such as average cost, table booking availability, online delivery option, and price range, along with their actual ratings.
 By learning patterns from this historical data, the model can predict the likely rating category for any new restaurant with similar details.
 
-
-
-Tech Stack:
+# Tech Stack:
 
 Python
 
