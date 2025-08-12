@@ -1,4 +1,4 @@
-# Restaurant-Ratings-Predictor
+# Restaurant Ratings Predictor
 A machine learning project that predicts a restaurant’s review rating category based on features such as average cost for two, table booking availability, online delivery availability, and price range. The project uses a trained ML model with a Streamlit web interface for easy user interaction.
 
 # HOW IT WORKS?
